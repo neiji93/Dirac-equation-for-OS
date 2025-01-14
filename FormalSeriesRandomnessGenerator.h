@@ -22,4 +22,6 @@ public:
   //with async keyword. but there must be a relationship 
   //with formal series. then, it will take time. so reboot the system.
   bool stopOSnow();
+
+  async void stopOSnow();
 }
