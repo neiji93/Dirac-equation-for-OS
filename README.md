@@ -6,3 +6,6 @@ we have now ro select a form of dirac equations. maybe we can use something rela
 https://books.google.fr/books?id=OVxQEAAAQBAJ&pg=PA216&dq=conjecture+poincar%C3%A9+equation%27+form&hl=fr&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwix8-rPkP-KAxWMUqQEHaeyNYEQ6AF6BAgEEAM#v=onepage&q=conjecture%20poincar%C3%A9%20equation'%20form&f=false
 
 so itbseems we run in circle. so its a second form for me of auto kernel compiler. the last o'e was delefates
+
+also ethical hacking using some sort of brute force.
+keyword (french) : homotopie, hitchin morphism.
